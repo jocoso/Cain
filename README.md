@@ -1,2 +1,2 @@
 # Nate
-Virtual Assitant
+Virtual Assistant
